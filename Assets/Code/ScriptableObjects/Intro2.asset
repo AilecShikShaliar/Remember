@@ -10,7 +10,11 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: dde08bf5a93d62e4a8883e27283d5bb6, type: 3}
-  m_Name: New State
+  m_Name: Intro2
   m_EditorClassIdentifier: 
-  storyText: 
-  nextStates: []
+  storyText: 'Por un lado es agradable.
+
+    Por el otro mis pulmones se encogen
+    junto con mi consciencia que desaparece en aquella infitina oscuridad. '
+  nextStates:
+  - {fileID: 11400000, guid: 65c76c8dd4e534943b8a765290853a3e, type: 2}

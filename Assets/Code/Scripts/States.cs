@@ -5,6 +5,7 @@ using UnityEngine;
 
 [CreateAssetMenu(menuName = "State")]
 
+
 public class State : ScriptableObject
 {
   
@@ -23,4 +24,12 @@ public class State : ScriptableObject
     {
         return nextStates;
     }
+    public Sprite imagenState;
+
+    public Sprite GetStateImage()
+    {
+	   return imagenState;
+    }
+  
 }
+

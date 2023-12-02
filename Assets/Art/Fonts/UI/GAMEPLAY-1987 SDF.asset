@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!28 &-908888619417499628
+--- !u!28 &-1394480865329038786
 Texture2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -61,7 +61,7 @@ MonoBehaviour:
   m_Name: GAMEPLAY-1987 SDF
   m_EditorClassIdentifier: 
   hashCode: -2122606767
-  material: {fileID: 6434475295338356520}
+  material: {fileID: 7690155698684550713}
   materialHashCode: -12486959
   m_Version: 1.1.0
   m_SourceFontFileGUID: 6530e86bf67bd5940911a5765101e33b
@@ -1290,7 +1290,7 @@ MonoBehaviour:
     m_GlyphIndex: 65
     m_Scale: 1
   m_AtlasTextures:
-  - {fileID: -908888619417499628}
+  - {fileID: -1394480865329038786}
   m_AtlasTextureIndex: 0
   m_IsMultiAtlasTexturesEnabled: 0
   m_ClearDynamicDataOnBuild: 0
@@ -1707,7 +1707,7 @@ MonoBehaviour:
   boldSpacing: 7
   italicStyle: 35
   tabSize: 10
---- !u!21 &6434475295338356520
+--- !u!21 &7690155698684550713
 Material:
   serializedVersion: 8
   m_ObjectHideFlags: 0
@@ -1743,7 +1743,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: -908888619417499628}
+        m_Texture: {fileID: -1394480865329038786}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _OutlineTex:
