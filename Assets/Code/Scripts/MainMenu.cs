@@ -29,7 +29,7 @@ public class MainMenu : MonoBehaviour
         if(transform.position.y == -2.54f && Input.GetKeyDown(KeyCode.Space))
         {
           
-            SceneManager.LoadScene("Intro");
+            SceneManager.LoadScene("Game");
         }
 
         
