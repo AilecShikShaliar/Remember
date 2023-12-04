@@ -16,4 +16,7 @@ MonoBehaviour:
     memoria y no tengo muchos\n recuerdos de mi vida antes de accidente.\""
   nextStates:
   - {fileID: 11400000, guid: e429aa012bfeb9441ab356d2c4b009de, type: 2}
+  - {fileID: 11400000}
+  - {fileID: 11400000}
+  - {fileID: 11400000}
   imagenState: {fileID: 21300000, guid: 4c9ce647c0133074d87328e978ef2836, type: 3}

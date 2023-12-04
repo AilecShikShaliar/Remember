@@ -15,4 +15,7 @@ MonoBehaviour:
   storyText: "???:\n\nS\xED. Te rescataron de milagro.\nTodo estaba hecho un desastre."
   nextStates:
   - {fileID: 11400000, guid: 9090396edcc468649b849eb4e1f1190d, type: 2}
+  - {fileID: 11400000}
+  - {fileID: 11400000}
+  - {fileID: 11400000}
   imagenState: {fileID: 21300000, guid: 07d1da1900ab9164e9291e37a73656d1, type: 3}

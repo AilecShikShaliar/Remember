@@ -15,4 +15,7 @@ MonoBehaviour:
   storyText: "Zarek:\n\nOtra vez... \n"
   nextStates:
   - {fileID: 11400000, guid: 6d9bbe7bf1b57204a9a2d51da3a244b5, type: 2}
+  - {fileID: 11400000}
+  - {fileID: 11400000}
+  - {fileID: 11400000}
   imagenState: {fileID: 21300000, guid: bd96960df433fdc46af9fafc96b750b5, type: 3}

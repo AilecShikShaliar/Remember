@@ -17,4 +17,7 @@ MonoBehaviour:
     hay aqu\xED."
   nextStates:
   - {fileID: 11400000, guid: 54e7a676134d5d141be7200e922b33f5, type: 2}
+  - {fileID: 11400000}
+  - {fileID: 11400000}
+  - {fileID: 11400000}
   imagenState: {fileID: 21300000, guid: 573b93e9e16aaa14ebbf1fef2351eaac, type: 3}

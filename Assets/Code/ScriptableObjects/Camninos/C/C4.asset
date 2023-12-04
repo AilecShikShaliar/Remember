@@ -16,4 +16,7 @@ MonoBehaviour:
     palmas de mis \nmanos sobre mi cara.\""
   nextStates:
   - {fileID: 11400000, guid: 2ea7f96c1e40de942a0f134231c90759, type: 2}
+  - {fileID: 11400000}
+  - {fileID: 11400000}
+  - {fileID: 11400000}
   imagenState: {fileID: 21300000, guid: 573b93e9e16aaa14ebbf1fef2351eaac, type: 3}

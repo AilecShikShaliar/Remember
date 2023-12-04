@@ -18,4 +18,7 @@ MonoBehaviour:
     Vale... es broma.'
   nextStates:
   - {fileID: 11400000, guid: 97e7b9af129a4774181c898976334b38, type: 2}
+  - {fileID: 11400000}
+  - {fileID: 11400000}
+  - {fileID: 11400000}
   imagenState: {fileID: 21300000, guid: bd96960df433fdc46af9fafc96b750b5, type: 3}

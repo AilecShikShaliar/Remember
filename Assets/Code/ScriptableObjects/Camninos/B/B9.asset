@@ -15,4 +15,7 @@ MonoBehaviour:
   storyText: "T/N:\n\nBueno, dejemonos de bromas...\n\xBFQu\xE9 me ha sucedico realmente?\n"
   nextStates:
   - {fileID: 11400000, guid: 71c3632ee39ed6c4ba8ec26fdd30f658, type: 2}
+  - {fileID: 11400000}
+  - {fileID: 11400000}
+  - {fileID: 11400000}
   imagenState: {fileID: 21300000, guid: 0486716a96d91c544853ecbace70c47d, type: 3}

@@ -16,4 +16,7 @@ MonoBehaviour:
     un poco\nlas narices."
   nextStates:
   - {fileID: 11400000, guid: 71c3632ee39ed6c4ba8ec26fdd30f658, type: 2}
+  - {fileID: 11400000}
+  - {fileID: 11400000}
+  - {fileID: 11400000}
   imagenState: {fileID: 21300000, guid: 64413d139a76a66408f841137903f8eb, type: 3}

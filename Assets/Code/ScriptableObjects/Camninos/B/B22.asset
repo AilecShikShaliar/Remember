@@ -20,4 +20,7 @@ MonoBehaviour:
 '
   nextStates:
   - {fileID: 11400000, guid: b72970f075cf2dd40ad51f8aca5b6e0f, type: 2}
+  - {fileID: 11400000}
+  - {fileID: 11400000}
+  - {fileID: 11400000}
   imagenState: {fileID: 21300000, guid: 047cb2562fe173345bd1dc68f310c286, type: 3}

@@ -15,4 +15,7 @@ MonoBehaviour:
   storyText: "???:\n\n\xBFY c\xF3mo sabes que es una \nbata de cientifico?"
   nextStates:
   - {fileID: 11400000, guid: 76b61ddc54fbc0e42abf48a1c785d76d, type: 2}
+  - {fileID: 11400000}
+  - {fileID: 11400000}
+  - {fileID: 11400000}
   imagenState: {fileID: 21300000, guid: 64413d139a76a66408f841137903f8eb, type: 3}

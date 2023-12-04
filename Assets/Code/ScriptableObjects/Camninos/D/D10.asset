@@ -16,4 +16,7 @@ MonoBehaviour:
     doctor..."
   nextStates:
   - {fileID: 11400000, guid: aad340f5da075e44db8d65672c258233, type: 2}
+  - {fileID: 11400000}
+  - {fileID: 11400000}
+  - {fileID: 11400000}
   imagenState: {fileID: 21300000, guid: d181751a331ea924cbc6bb9c654f3a7d, type: 3}

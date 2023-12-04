@@ -16,4 +16,7 @@ MonoBehaviour:
     vista se est\xE1ba nublando\ny poco a poco comenc\xE9 a no sentir mi\ncuerpo...\""
   nextStates:
   - {fileID: 11400000, guid: af9837790fdeca64b917fd900d945d4a, type: 2}
+  - {fileID: 11400000}
+  - {fileID: 11400000}
+  - {fileID: 11400000}
   imagenState: {fileID: 21300000, guid: 0486716a96d91c544853ecbace70c47d, type: 3}

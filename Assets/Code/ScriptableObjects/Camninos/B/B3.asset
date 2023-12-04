@@ -16,4 +16,7 @@ MonoBehaviour:
     que\nle gastes esta clase de broma a una \npaciente desorientada."
   nextStates:
   - {fileID: 11400000, guid: 5323abed7dc0b614cbff0aac875ff685, type: 2}
+  - {fileID: 11400000}
+  - {fileID: 11400000}
+  - {fileID: 11400000}
   imagenState: {fileID: 21300000, guid: b357b6de336e71c4dafc1df958462d6a, type: 3}

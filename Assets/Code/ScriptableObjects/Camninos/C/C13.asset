@@ -15,4 +15,7 @@ MonoBehaviour:
   storyText: "T/N:\n\nPantal\xF3n militar negro..."
   nextStates:
   - {fileID: 11400000, guid: 389659911e4d7f045bf69c6c824c6524, type: 2}
+  - {fileID: 11400000}
+  - {fileID: 11400000}
+  - {fileID: 11400000}
   imagenState: {fileID: 21300000, guid: 573b93e9e16aaa14ebbf1fef2351eaac, type: 3}

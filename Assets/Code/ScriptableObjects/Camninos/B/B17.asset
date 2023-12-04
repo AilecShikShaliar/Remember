@@ -16,4 +16,7 @@ MonoBehaviour:
     pintas de doctor!, \xA1tienes \npintas de cient\xEDfico!"
   nextStates:
   - {fileID: 11400000, guid: 22904c8933f7d924e8462f4d3a4de27f, type: 2}
+  - {fileID: 11400000}
+  - {fileID: 11400000}
+  - {fileID: 11400000}
   imagenState: {fileID: 21300000, guid: 573b93e9e16aaa14ebbf1fef2351eaac, type: 3}

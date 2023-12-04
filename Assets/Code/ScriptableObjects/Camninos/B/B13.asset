@@ -16,4 +16,7 @@ MonoBehaviour:
     apellidos?\n"
   nextStates:
   - {fileID: 11400000, guid: bf64d74770c525c40a87d00aab8a1323, type: 2}
+  - {fileID: 11400000}
+  - {fileID: 11400000}
+  - {fileID: 11400000}
   imagenState: {fileID: 21300000, guid: 0486716a96d91c544853ecbace70c47d, type: 3}

@@ -16,4 +16,7 @@ MonoBehaviour:
     m\xE1s... y m\xE1s...\""
   nextStates:
   - {fileID: 11400000, guid: b8b518afc0a5b5a4e8d08ee6d33ccd6f, type: 2}
+  - {fileID: 11400000}
+  - {fileID: 11400000}
+  - {fileID: 11400000}
   imagenState: {fileID: 21300000, guid: 573b93e9e16aaa14ebbf1fef2351eaac, type: 3}

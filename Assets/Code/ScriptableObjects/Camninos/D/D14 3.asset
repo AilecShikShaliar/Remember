@@ -15,4 +15,7 @@ MonoBehaviour:
   storyText: "\n\nGOOD ENDING: \xBFContinuar\xE1?"
   nextStates:
   - {fileID: 11400000, guid: f7c6196ae5871534ea558b2c93caf1d0, type: 2}
+  - {fileID: 11400000}
+  - {fileID: 11400000}
+  - {fileID: 11400000}
   imagenState: {fileID: 21300000, guid: b945b9e26ebeedb4192152f8879a84c4, type: 3}

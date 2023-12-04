@@ -16,4 +16,7 @@ MonoBehaviour:
     reacci\xF3n."
   nextStates:
   - {fileID: 11400000, guid: a8242ebb48c946148aa579e2d2347b6b, type: 2}
+  - {fileID: 11400000}
+  - {fileID: 11400000}
+  - {fileID: 11400000}
   imagenState: {fileID: 21300000, guid: 07d1da1900ab9164e9291e37a73656d1, type: 3}

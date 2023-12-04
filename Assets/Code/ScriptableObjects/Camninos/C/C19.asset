@@ -15,4 +15,7 @@ MonoBehaviour:
   storyText: "\n\n\"Miles de recuerdos vienen de golpe\n haciendome sentir abrumada.\""
   nextStates:
   - {fileID: 11400000, guid: 4c48e209d8ba69243b5a65ddecc20f51, type: 2}
+  - {fileID: 11400000}
+  - {fileID: 11400000}
+  - {fileID: 11400000}
   imagenState: {fileID: 21300000, guid: 573b93e9e16aaa14ebbf1fef2351eaac, type: 3}

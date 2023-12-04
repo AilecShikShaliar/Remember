@@ -16,4 +16,7 @@ MonoBehaviour:
     ni\xF1os\""
   nextStates:
   - {fileID: 11400000, guid: 7cd7fc5ae37993e48888e14e70736ece, type: 2}
+  - {fileID: 11400000}
+  - {fileID: 11400000}
+  - {fileID: 11400000}
   imagenState: {fileID: 21300000, guid: 4c9ce647c0133074d87328e978ef2836, type: 3}

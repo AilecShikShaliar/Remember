@@ -16,4 +16,7 @@ MonoBehaviour:
     bata y pegandole gritos que\nse escuchaban por todo el hospital.\""
   nextStates:
   - {fileID: 11400000, guid: a44d94cc4a38de44ab6445874778c5e0, type: 2}
+  - {fileID: 11400000}
+  - {fileID: 11400000}
+  - {fileID: 11400000}
   imagenState: {fileID: 21300000, guid: 4c9ce647c0133074d87328e978ef2836, type: 3}

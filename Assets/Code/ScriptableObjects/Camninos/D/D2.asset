@@ -15,4 +15,7 @@ MonoBehaviour:
   storyText: "T/N:\n\nTe pill\xE9."
   nextStates:
   - {fileID: 11400000, guid: 7e785d11800b3454b8c034038e35b239, type: 2}
+  - {fileID: 11400000}
+  - {fileID: 11400000}
+  - {fileID: 11400000}
   imagenState: {fileID: 21300000, guid: d4cbce36a3fb75243b1a7b83778dd339, type: 3}

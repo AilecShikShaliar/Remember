@@ -15,4 +15,7 @@ MonoBehaviour:
   storyText: "???:\n\n\xAA. \xAA\xAA\xAA\xAA\xAA\xAA\xAA\xAA\xAA\xAA\xAA\xAA."
   nextStates:
   - {fileID: 11400000, guid: f88e377bcb6e1304786121802fc9e67a, type: 2}
+  - {fileID: 11400000}
+  - {fileID: 11400000}
+  - {fileID: 11400000}
   imagenState: {fileID: 21300000, guid: d181751a331ea924cbc6bb9c654f3a7d, type: 3}

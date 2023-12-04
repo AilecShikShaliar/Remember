@@ -15,4 +15,7 @@ MonoBehaviour:
   storyText: "\n\n\"Supongo que est\xF3 ser\xE1 mi nueva vida\na partir de ahora.\""
   nextStates:
   - {fileID: 11400000, guid: 18d6c02e5922b224ead1b60bb17fc9c7, type: 2}
+  - {fileID: 11400000}
+  - {fileID: 11400000}
+  - {fileID: 11400000}
   imagenState: {fileID: 21300000, guid: 8cb1804ed05bdc640a89702a960f1bee, type: 3}

@@ -15,4 +15,7 @@ MonoBehaviour:
   storyText: "Zarek:\n\nNo pasa nada...\nHar\xE9 todo lo que sea necesario...\n"
   nextStates:
   - {fileID: 11400000, guid: edd149268ee66254990b78b38a8feeb3, type: 2}
+  - {fileID: 11400000}
+  - {fileID: 11400000}
+  - {fileID: 11400000}
   imagenState: {fileID: 21300000, guid: bd96960df433fdc46af9fafc96b750b5, type: 3}

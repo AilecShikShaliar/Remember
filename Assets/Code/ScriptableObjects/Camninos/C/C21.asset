@@ -15,4 +15,7 @@ MonoBehaviour:
   storyText: "\n\n\"Si, el accidente ocurri\xF3 de verdad...\""
   nextStates:
   - {fileID: 11400000, guid: 0903e2373cc0622499356719928954f6, type: 2}
+  - {fileID: 11400000}
+  - {fileID: 11400000}
+  - {fileID: 11400000}
   imagenState: {fileID: 21300000, guid: 573b93e9e16aaa14ebbf1fef2351eaac, type: 3}
