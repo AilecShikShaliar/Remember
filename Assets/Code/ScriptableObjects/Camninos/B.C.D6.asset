@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: B.C.D6
   m_EditorClassIdentifier: 
   storyText: "T/N:\n\n\xBFEra yo qu\xEDen conduc\xEDa?\n\xBFHab\xEDa m\xE1s gente
-    dentro?"
+    conmigo?"
   nextStates:
   - {fileID: 11400000, guid: e6b2b12856bd6c14fb2937f14eb78c18, type: 2}
   imagenState: {fileID: 21300000, guid: 0486716a96d91c544853ecbace70c47d, type: 3}

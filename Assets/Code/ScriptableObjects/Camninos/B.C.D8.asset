@@ -12,7 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dde08bf5a93d62e4a8883e27283d5bb6, type: 3}
   m_Name: B.C.D8
   m_EditorClassIdentifier: 
-  storyText: "\n\n\"\xBFAcaba de responder como si supiera de mi\ny del accidente?\""
+  storyText: "\n\n\"\xBFAcaba de responder como si supiera de mi\ny del accidente
+    en profundidad? Que raro...\""
   nextStates:
-  - {fileID: 0}
+  - {fileID: 11400000, guid: 2ab0ea2f3b4dc4541b947488860111b6, type: 2}
   imagenState: {fileID: 21300000, guid: 0486716a96d91c544853ecbace70c47d, type: 3}
